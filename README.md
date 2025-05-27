@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @brucewang5638
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Bruce Wang!
 
-<!---
-brucewang5638/brucewang5638 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer skilled in creating robust, scalable, and user-friendly applications. My toolkit includes a blend of backend and frontend technologies, allowing me to deliver end-to-end solutions.
+
+## 🛠️ Tech Stack
+- **Languages:** Kotlin, Java, TypeScript, Python, SQL
+- **Frontend:** React, Vue, Angular
+
+## 🚀 About Me
+- 💡 I love exploring new technologies and building things that make a difference.
+- 🔍 Always eager to learn and take on new challenges in software development.
+- 🤝 Collaborative, detail-oriented, and driven by curiosity.
+
+## 📫 Get in Touch
+Feel free to connect or reach out for collaboration, interesting discussions, or just to say hi!
+
+---
+
+<!--
+Want to personalize your profile even more? Add your favorite projects, social links, or fun facts here!
+-->
