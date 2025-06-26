@@ -4,7 +4,7 @@ I'm a passionate developer skilled in creating robust, scalable, and user-friend
 
 ## 🛠️ Tech Stack
 - **Languages:** Kotlin, Java, TypeScript, Python, SQL
-- **Frontend:** Spring, React, Vue, Angular
+- **Frame:** Spring, React, Vue, Angular
 
 ## 🚀 About Me
 - 💡 I love exploring new technologies and building things that make a difference.
